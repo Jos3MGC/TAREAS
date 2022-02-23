@@ -1,0 +1,98 @@
+html{
+    font-family:Helvetica;
+}
+
+body{
+    color:rgb(0, 0, 0);
+    width: auto;
+}
+
+.table-sencilla{
+    background: white;
+    width: 30%;
+    border-collapse: collapse;
+}
+
+.contorno{
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+.table-sencilla thead th{
+    background:rgb(250, 215, 221);
+    border: 1px solid black;
+    text-align: center;
+}
+
+.table-sencilla tbody td{
+    border: 1px solid black;
+}
+
+.table-combinacion{
+    background: white;
+    width: 50%;
+    border-collapse: collapse;
+}
+
+.contorno{
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+.primer-renglon{
+    background:darkgoldenrod;
+}
+
+.segundo-renglon{
+    background:goldenrod;
+}
+
+.table-combinacion thead th{
+    border: 2px solid black;
+    text-align: center;
+}
+
+.table-combinacion tbody td{
+    border: 1px solid black;
+}
+
+.table-renglones{
+    background: white;
+    width: 60%;
+    border-collapse: collapse;
+}
+
+.remarcado{
+    color:red;
+}
+
+.contorno2{
+    border: 2px solid black;
+    text-align: center;
+}
+
+.table-renglones tbody td{
+    border: 1px solid black;
+}
+
+.table-colrenglon{
+    background: white;
+    width: 50%;
+    border-collapse: collapse;
+}
+
+.grid {
+    display: grid;
+    grid-template-rows: 30px;
+  }
+
+.fondo1{
+    background: gray;
+}
+
+.fondo2{
+    background:darkgray;
+}
+.table-colrenglon tbody td{
+    border: 1px solid black;
+}
