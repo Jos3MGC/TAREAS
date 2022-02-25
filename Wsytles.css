@@ -1,0 +1,109 @@
+html{
+    font-family:Helvetica;
+}
+
+body{
+    color:rgb(0, 0, 0);
+    width: auto;
+}
+
+.container{
+    width: 900px;
+}
+
+.container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.texto-justificado{
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.texto-derecha{
+    text-align: right;
+}
+
+.texto-centrado{
+    text-align: center;
+}
+
+.texto-izq{
+    text-align: left;
+}
+
+h1{
+    color:rgb(40, 167, 199);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.table-parrafo{
+    background: white;
+    width: 100%;
+    text-align: justify;
+}
+
+.primer{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.sinBorde{
+    border-collapse:collapse;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0.3em;
+}
+
+.conBorde{
+    border: 1px solid black;
+    text-align: justify;
+    font-size: 16px;
+    padding: 0.8em;
+}
+
+.azul{
+    color:aqua;
+}
+
+.negro{
+    color:black;
+}
+
+.amarillo{
+    color:yellow;
+}
+
+.verde{
+    color:green;
+}
+
+.rojo{
+    color:red;
+}
+
+.cafe{
+    color:brown;
+}
+
+.rosa{
+    color:violet;
+}
+
+.fuerte{
+    color:blue;
+}
+
+.morado{
+    color:blueviolet;
+}
+
+.segundo{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p.parrafo{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: right;
+}
