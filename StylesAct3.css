@@ -1,0 +1,119 @@
+html{
+    font-family:Helvetica;
+}
+
+body{
+    color:rgb(0, 0, 0);
+    width: auto;
+}
+
+.table-sencilla{
+    background: white;
+    width: 30%;
+    border-collapse: collapse;
+    margin-left:auto; 
+    margin-right:auto;
+    text-align: center;
+    border: 1;
+}
+
+.contorno{
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+.texto-diagonal{
+    transform: rotate(-45deg);
+    height: 70px;
+}
+
+.table-sencilla thead th{
+    background:rgb(250, 215, 221);
+    border: 1px solid black;
+    text-align: center;
+}
+
+.table-sencilla tbody td{
+    border: 1px solid black;
+}
+
+.table-combinacion{
+    background: white;
+    width: 50%;
+    border-collapse: collapse;
+    margin-left:auto; 
+    margin-right:auto;
+    text-align: center;
+    border: 1;
+}
+
+.contorno{
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+.primer-renglon{
+    background:darkgoldenrod;
+}
+
+.segundo-renglon{
+    background:goldenrod;
+}
+
+.table-combinacion thead th{
+    border: 2px solid black;
+    text-align: center;
+}
+
+.table-combinacion tbody td{
+    border: 1px solid black;
+}
+
+.table-renglones{
+    background: white;
+    width: 60%;
+    border-collapse: collapse;
+    margin-left:auto; 
+    margin-right:auto;
+    text-align: center;
+    border: 1;
+}
+
+.remarcado{
+    color:red;
+}
+
+.contorno2{
+    border: 2px solid black;
+    text-align: center;
+}
+
+.table-renglones tbody td{
+    border: 1px solid black;
+}
+
+.table-colrenglon{
+    background: white;
+    width: 50%;
+    border-collapse: collapse;
+    margin-left:auto; 
+    margin-right:auto;
+    text-align: center;
+    border: 1;
+}
+
+.grid {
+    display: grid;
+    grid-template-rows: 30px;
+  }
+
+.fondo1{
+    background: gray;
+}
+
+.fondo2{
+    background:darkgray;
+}
+.table-colrenglon tbody td{
+    border: 1px solid black;
+}
