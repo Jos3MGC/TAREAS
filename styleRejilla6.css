@@ -1,0 +1,24 @@
+.container{
+    width: 700px;
+}
+.color-carne{
+    background-color: rgb(214, 25, 151);
+    color: rgb(7, 8, 8);
+    border: 3px solid white;
+    padding: 10px;
+    text-align: left;
+}
+.color-naranja{
+    background-color: rgb(214, 132, 25);
+    color: rgb(7, 8, 8);
+    border: 3px solid white;
+    padding: 30px;
+    text-align: center;
+}
+.color-amarillo{
+    background-color: rgb(186, 214, 25);
+    color: rgb(7, 8, 8);
+    border: 3px solid white;
+    text-align: left;
+    padding: 10px;
+}
