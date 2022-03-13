@@ -1,0 +1,47 @@
+.container{
+    width: 300px;
+}
+.color-green{
+    background-color: greenyellow;
+    color: greenyellow;    
+    padding: 20px;
+    border: 3px solid white;
+    border: 3px solid black;
+}
+.color-red{
+    background-color: red;
+    color: red;    
+    padding: 20px;
+    border: 3px solid black;
+    padding: 10px;
+}
+.color-rosa{
+    background-color: rgb(227, 15, 235);
+    color: rgb(227, 15, 235);    
+    padding: 20px;
+    border: 3px solid white;
+    padding: 10px;
+}
+.color-naranja{
+    background-color: rgb(235, 158, 15);
+    color: rgb(235, 158, 15);  
+    border: 3px solid white;
+    padding: 40px;
+}
+.color-blue{
+    background-color: rgb(127, 129, 255);
+    color: rgb(127, 129, 255);
+    border: 3px solid rgb(235, 158, 15);
+    padding: 40px;
+}
+.color-gris{
+    background-color: rgb(15, 18, 177);
+    color: rgb(15, 18, 177);
+    border: 3px solid rgb(199, 204, 204);
+    padding: 30px;
+}
+.color-green2{
+    background-color: greenyellow;
+    color: greenyellow;    
+    padding: 3px;
+}
